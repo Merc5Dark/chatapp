@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import GoogleSignin from "../img/btn_google_signin_dark_pressed_web.png";
+import GoogleSignin from "../img/test.png";
 
 const NavBar = () => {
   const [user, setUser] = useState(false);
